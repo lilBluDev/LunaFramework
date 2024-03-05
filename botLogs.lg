@@ -1,0 +1,8 @@
+################## LOG FILE CREATED ##################
+
+
+[index] [WARN] log file does not exist!
+--------------------------------------------------- # NEW SESSION # ---------------------------------------------------
+[CommandHandler] [INFO] Command Loaded: (/utility) help.js 5ms
+[CommandHandler] [INFO] Command Loaded: (/utility) ping.js 1ms
+[UVClient] [NOTICE] Client is ready!

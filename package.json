@@ -1,0 +1,27 @@
+{
+  "name": "luna-framework",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/",
+  "license": "MIT",
+  "scripts": {
+    "run:test": "node tests/index.js",
+    "build": "tsc"
+  },
+  "keywords": [
+    "discord-framework",
+    "discord",
+    "framework"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.11.22",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "psyche-logger": "^1.0.1"
+  }
+}
